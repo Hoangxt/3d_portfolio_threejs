@@ -3,3 +3,5 @@ npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-
 npm install --legacy-peer-deps three
 
 npm run build
+
+npm install --legacy-peer-deps
